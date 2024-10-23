@@ -23,17 +23,7 @@
   - `psutil`
 
 ### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/smart-cleanup-assistant.git
-   ```
-
-2. Navigate to the project directory:
-  ```bash
-   cd smart-cleanup-assistant```
-
-3. Run the assistant:
-    ```bash
-      python cleanup_assistant.py```
-
+```bash
+git clone https://github.com/yourusername/smart-cleanup-assistant.git
+cd smart-cleanup-assistant
+python cleanup_assistant.py
