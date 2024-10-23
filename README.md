@@ -24,6 +24,6 @@
 
 ### Steps
 ```bash
-git clone https://github.com/yourusername/smart-cleanup-assistant.git
-cd smart-cleanup-assistant
+git clone https://github.com/jashadalja/Smart-Cleanup-Assistant.git
+cd Smart-Cleanup-Assistant
 python SmartCleanupAssistant.py
