@@ -29,7 +29,10 @@
    git clone https://github.com/yourusername/smart-cleanup-assistant.git
 
 2. Navigate to the project directory:
-cd smart-cleanup-assistant
+  ```bash
+   cd smart-cleanup-assistant
 
-3. Run the assistant
-python cleanup_assistant.py
+3. Run the assistant:
+    ```bash
+      python cleanup_assistant.py
+
