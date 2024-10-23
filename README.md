@@ -26,4 +26,4 @@
 ```bash
 git clone https://github.com/yourusername/smart-cleanup-assistant.git
 cd smart-cleanup-assistant
-python cleanup_assistant.py
+python SmartCleanupAssistant.py
